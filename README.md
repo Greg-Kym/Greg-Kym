@@ -1,39 +1,47 @@
-# Hello World, I'm Gregory Kimani 👋
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZ4Z3RrZ3RrZ3RrZ3RrZ3RrZ3RrZ3RrZ3RrZ3RrZ3RrZ3RrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dw60YIVoqHglLg8m9z/giphy.gif" width="30px"> I'm Gregory Kimani
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;MERN+Stack+Developer;AI+%2F+ML+Enthusiast;PyTorch+Researcher" alt="Typing SVG" />
+</p>
+
+---
+
+### 🌌 About Me
+I am a **Computer Science Student at Kirinyaga University** sitting at the intersection of scalable web applications and intelligent machine learning models. I build with the **MERN Stack** and experiment with **Deep Learning** architectures.
+
+- 🔭 **Currently:** Building full-stack apps with real-time AI integration.
+- 🎓 **Education:** BSc. Computer Science (Kirinyaga University).
+- ⚡ **Fun Fact:** I use PyTorch to turn data into insights.
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Student%20@%20Kirinyaga%20University-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20AI-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-I am a **Computer Science Student** passionate about bridging the gap between robust Web Architectures and Intelligent Systems. Currently, I am refining my expertise in the MERN stack while exploring the depths of Neural Networks using PyTorch.
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
 ---
 
-### 🚀 Technical Arsenal
-
-**Web Development (MERN)**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Artificial Intelligence & Machine Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
----
-
-### 🔍 Current Focus
-- 🔭 **Working on:** Scalable web applications with integrated ML models.
-- 🌱 **Learning:** Advanced Deep Learning architectures and Model Optimization.
-- 🏛️ **Education:** Pursuing BSc. Computer Science at Kirinyaga University.
-- 💬 **Ask me about:** JavaScript, Python, or why I prefer PyTorch over TensorFlow.
-
----
-
-### 📊 GitHub Stats
+### 📈 Activity & Impact
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Greg-Kym&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&text_color=9f9f9f&icon_color=007acc" alt="Gregory's Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Greg-Kym&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-Kym&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+### 🤝 Connect With Me
+<p align="left">
+<a href="mailtogregkymgreg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="www.linkedin.com/in/greg-kym-04a015271"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
