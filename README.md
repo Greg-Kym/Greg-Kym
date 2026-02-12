@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZ4Z3RrZ3RrZ3RrZ3RrZ3RrZ3RrZ3RrZ3RrZ3RrZ3RrZ3RrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dw60YIVoqHglLg8m9z/giphy.gif" width="30px"> I'm Gregory Kimani
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZ4Z3RrZ3RrZ3RrZ3RrZ3RrZ3RrZ3RrZ3RrZ3RrZ3RrZ3RrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dw60YIVoqHglLg8m9z/giphy.gif" width="30px"> I'm Gregory Kimani
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;MERN+Stack+Developer;AI+%2F+ML+Enthusiast;PyTorch+Researcher" alt="Typing SVG" />
