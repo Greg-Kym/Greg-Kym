@@ -11,7 +11,18 @@ I am a **Computer Science Student at Kirinyaga University** sitting at the inter
 
 - 🔭 **Currently:** Building full-stack apps with real-time AI integration.
 - 🎓 **Education:** BSc. Computer Science (Kirinyaga University).
+- 🛡️ **Security:** Deep diving into **Cybersecurity** fundamentals and ethical hacking.
+- 🎨 **Creative:** Learning **Blender** to bridge the gap between 3D design and web.
 - ⚡ **Fun Fact:** I use PyTorch to turn data into insights.
+
+---
+
+### 📚 Current Learning Path
+<p align="left">
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=flat-square&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-TryHackMe-%23922724.svg?style=flat-square&logo=tryhackme&logoColor=white" />
+</p>
 
 ---
 
@@ -32,16 +43,22 @@ I am a **Computer Science Student at Kirinyaga University** sitting at the inter
 
 ---
 
-### 📈 Activity & Impact
+
+### 📉 Activity & Impact
+
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Greg-Kym&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-Kym&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Greg-Kym&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Greg-Kym&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Greg-Kym&theme=tokyonight&hide_border=true" alt="Greg-Kym Streak" />
 </p>
 
 ---
 
 ### 🤝 Connect With Me
 <p align="left">
-<a href="mailtogregkymgreg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="www.linkedin.com/in/greg-kym-04a015271"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:gregkymgreg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/greg-kym-04a015271"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
